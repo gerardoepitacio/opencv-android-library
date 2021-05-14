@@ -13,8 +13,6 @@ Compiling the .aar library.
 // build.gradle (application)
 dependencies {
 
-    implementation fileTree(include: ['*.jar', '*.aar'], dir: 'libs')
-    
     // other dependencies...
     
     // opencv dependency
